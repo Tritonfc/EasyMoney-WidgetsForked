@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyMoney-WidgetsForked.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyMoney-WidgetsForked.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyMoney-Widgets-Library/EasyMoney-WidgetsForked.EasyMoney-Widgets-Library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyMoney-WidgetsForked.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
